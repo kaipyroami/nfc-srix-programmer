@@ -4,7 +4,7 @@ An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K
 
 ## Prerequisites
 
-* [libnfc](https://github.com/nfc-tools/libnfc)
+* [libnfc](https://github.com/nfc-tools/libnfc)-dev
 
 ## Build
 
